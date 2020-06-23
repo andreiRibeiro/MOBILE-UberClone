@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_maps">Uber</string>
+    <string name="title_activity_passageiro">Iniciar uma viagem</string>
+    <string name="title_activity_motorista">Atender uma viagem</string>
+    <string name="title_activity_corrida">Iniciar uma corrida</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
