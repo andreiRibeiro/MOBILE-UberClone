@@ -6,7 +6,7 @@ Este projeto simula o aplicativo real, onde é possível você se cadastrar e es
 
 No perfil passageiro você tem a possibilidade de informar onde deseja ir e solictar um uber.
 
-No perfil motorista você te a possibilidade de identificar as corridas disponíveis (sabendo a distancia de seu cliente) e selecionar a que melhor lhe convir.
+No perfil motorista você tem a possibilidade de identificar as corridas disponíveis (sabendo a distancia de seu cliente) e selecionar a que melhor lhe convir.
 
 O aplicativo esta integrado com o Firebase, e utiliza os módulos Authentication e Realtime Database.
 
