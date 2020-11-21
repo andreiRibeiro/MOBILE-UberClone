@@ -8,7 +8,7 @@ No perfil passageiro você tem a possibilidade de informar onde deseja ir e soli
 
 No perfil motorista você tem a possibilidade de identificar as corridas disponíveis (sabendo a distancia de seu cliente) e selecionar a que melhor lhe convir.
 
-O aplicativo esta integrado com o Firebase, e utiliza os módulos Authentication e Realtime Database.
+O aplicativo utiliza tecnologia Geofire e esta integrado com o Firebase, utilizando os módulos Authentication e Realtime Database.
 
 
 1. Tela de login.
