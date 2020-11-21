@@ -38,7 +38,7 @@ O aplicativo esta integrado com o Firebase, e utiliza os módulos Authentication
 
 6. Tela perfil motorista - A caminho do passageiro
 
-![](app/imagens/uberCamihoPassageiro.png)
+![](app/imagens/uberCaminhoPassageiro.png)
 
 
 7. Tela perfil motorista - Maps
