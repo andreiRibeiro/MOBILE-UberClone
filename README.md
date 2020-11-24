@@ -10,6 +10,8 @@ No perfil motorista você tem a possibilidade de identificar as corridas dispon�
 
 O aplicativo utiliza tecnologia Geofire e esta integrado com o Firebase, utilizando os módulos Authentication e Realtime Database.
 
+Compatível com dispositivos Android Oreo (8.0) em diante.
+
 
 ## 1. Tela de login.
 
