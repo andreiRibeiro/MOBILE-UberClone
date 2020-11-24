@@ -1,6 +1,6 @@
 # Clone-Uber
 
-Aplicativo clone para fins de conhecimento.
+Aplicativo clone para fins de conhecimento. [Baixar aplicativo](cloneUber.apk)
 
 Este projeto simula o aplicativo real, onde é possível você se cadastrar e escolher seu tipo de perfil (como ira atuar) "motorista" ou "passageiro".
 
