@@ -13,45 +13,45 @@ O aplicativo utiliza tecnologia Geofire e esta integrado com o Firebase, utiliza
 Compatível com dispositivos Android Oreo (8.0) em diante.
 
 
-## 1. Tela de login.
+#### 1) Tela de login.
 
 ![](app/imagens/uberLogin.png)
 
 
-## 2. Tela de acesso.
+#### 2) Tela de acesso.
 
 ![](app/imagens/uberAcesso.png)
 
 
-## 3. Tela de cadastro.
+#### 3) Tela de cadastro.
 
 ![](app/imagens/uberCadastro.png)
 
 
-## 4. Tela perfil motorista - Atender uma viagem
+#### 4) Tela perfil motorista - Atender uma viagem
 
 ![](app/imagens/uberAtenderViagem.png)
 
 
-## 5. Tela perfil passageiro - Iniciar uma viagem
+#### 5) Tela perfil passageiro - Iniciar uma viagem
 
 ![](app/imagens/uberIniciarViagem.png)
 
 
-## 6. Tela perfil motorista - A caminho do passageiro
+#### 6) Tela perfil motorista - A caminho do passageiro
 
 ![](app/imagens/uberCaminhoPassageiro.png)
 
 
-## 7. Tela perfil motorista - Maps
+#### 7) Tela perfil motorista - Maps
 
 ![](app/imagens/uberMaps.png)
 
 
-## 8. Telas perfil motorista e passageiro durante o processo
+#### 8) Telas perfil motorista e passageiro durante o processo
 
 ![](app/imagens/uberMotoristaPassageiro.png)
 
-## 9. Organização dados no Firebase
+#### 9) Organização dados no Firebase
 
 ![](app/imagens/uberFirebase1.png)
